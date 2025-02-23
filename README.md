@@ -16,28 +16,14 @@ php,mysql,java,html,css
 ## Top Projects
 
 
-1. [TienDat-30404](https://github.com/TienDat-30404/TienDat-30404)
-   - A personal repository showcasing my coding journey.
-   - ⭐ 0 Stars | 🌐 Language: Not Specified | 🛠️ Forks: 0 | Issues: 0
+[![Php-mySql-ajax](https://github-readme-stats.vercel.app/api/pin/?username=TienDat-30404&repo=Php-mySql-ajax)](https://github.com/TienDat-30404/Php-mySql-ajax)
+[![Php-mySql-ajax](https://github-readme-stats.vercel.app/api/pin/?username=TienDat-30404&repo=TienDat-30404.github.io)](https://github.com/TienDat-30404/TienDat-30404.github.io)
+[![Php-mySql-ajax](https://github-readme-stats.vercel.app/api/pin/?username=TienDat-30404&repo=javaswing)](https://github.com/TienDat-30404/javaswing)
+[![Php-mySql-ajax](https://github-readme-stats.vercel.app/api/pin/?username=TienDat-30404&repo=TienDat-30404)](https://github.com/TienDat-30404/TienDat-30404)
 
-2. [TienDat-30404.github.io](https://github.com/TienDat-30404/TienDat-30404.github.io)
-   - My personal website built with GitHub Pages.
-   - ⭐ 0 Stars | 🌐 Language: Not Specified | 🛠️ Forks: 0 | Issues: 0
-
-3. [Php-mySql-ajax](https://github.com/TienDat-30404/Php-mySql-ajax)
-   - A project demonstrating PHP with MySQL and AJAX.
-   - ⭐ 1 Star | 🌐 Language: PHP | 🛠️ Forks: 0 | Issues: 0
-
-4. [javaswing](https://github.com/TienDat-30404/javaswing)
-   - A Java Swing application showcasing graphical user interface design.
-   - ⭐ 0 Stars | 🌐 Language: Java | 🛠️ Forks: 0 | Issues: 0
 
 ## GitHub Stats
 
-
-- 🌟 Public Repositories: 4
-- 👥 Followers: 0
-- 👤 Following: 0
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TienDat-30404&show_icons=true&theme=radical) 
 
