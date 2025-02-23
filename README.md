@@ -1,12 +1,49 @@
 <h2 align="left">Hi 👋! My name is Dat and I'm a programmer from the future</h2>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## Hi there! 👋
 
-###
+I'm Tiến-Đạt, a passionate programmer from the future. Whether it's crafting innovative solutions or exploring new technologies, I'm always eager to take on exciting challenges!
+
+## About Me
+
+I am a programmer based in Ho Chi Minh City. My journey in tech is driven by a fascination with how technology shapes our world. I believe in constant learning and am excited about contributing to impactful projects.
+
+## Skills & Technologies
+
+php,mysql,java,html,css
+
+## Top Projects
+
+
+1. [TienDat-30404](https://github.com/TienDat-30404/TienDat-30404)
+   - A personal repository showcasing my coding journey.
+   - ⭐ 0 Stars | 🌐 Language: Not Specified | 🛠️ Forks: 0 | Issues: 0
+
+2. [TienDat-30404.github.io](https://github.com/TienDat-30404/TienDat-30404.github.io)
+   - My personal website built with GitHub Pages.
+   - ⭐ 0 Stars | 🌐 Language: Not Specified | 🛠️ Forks: 0 | Issues: 0
+
+3. [Php-mySql-ajax](https://github.com/TienDat-30404/Php-mySql-ajax)
+   - A project demonstrating PHP with MySQL and AJAX.
+   - ⭐ 1 Star | 🌐 Language: PHP | 🛠️ Forks: 0 | Issues: 0
+
+4. [javaswing](https://github.com/TienDat-30404/javaswing)
+   - A Java Swing application showcasing graphical user interface design.
+   - ⭐ 0 Stars | 🌐 Language: Java | 🛠️ Forks: 0 | Issues: 0
+
+## GitHub Stats
+
+
+- 🌟 Public Repositories: 4
+- 👥 Followers: 0
+- 👤 Following: 0
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TienDat-30404&show_icons=true&theme=radical) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TienDat-30404&layout=compact&theme=radical)
+
+
 
 
 ###
